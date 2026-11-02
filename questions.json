@@ -1,0 +1,252 @@
+{
+  "heading": "Sci_Homework_G9M9NZ",
+  "topics": [
+  {
+  "heading": "Assessment",
+  "questions": [
+    {
+      "questionNo": 1,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Arrange the following substances in increasing order of forces of attraction between their particles: Water, Sugar, Oxygen",
+      "options": [
+        { "text": "Oxygen < Water < Sugar" },
+        { "text": "Water < Oxygen < Sugar" },
+        { "text": "Sugar < Water < Oxygen" },
+        { "text": "Oxygen < Sugar < Water" }
+      ],
+      "answer": 0
+    },
+    {
+      "questionNo": 2,
+      "section": "mcq",
+      "marks": 1,
+      "question": "<b>Assertion (A):</b> Liquids and gases transfer heat mainly by convection.<br><b>Reason (R):</b> Their particles can move freely from one place to another.",
+      "options": [
+        { "text": "Both A and R are true, and R is the correct explanation of A" },
+        { "text": "Both A and R are true, but R is not the correct explanation of A" },
+        { "text": "A is true but R is false" },
+        { "text": "A is false but R is true" }
+      ],
+      "answer": 0
+    },
+    {
+      "questionNo": 3,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Which nutrient is the main source of energy for the body?",
+      "options": [
+        { "text": "Carbohydrates" },
+        { "text": "Fats" },
+        { "text": "Proteins" },
+        { "text": "Vitamins" }
+      ],
+      "answer": 0
+    },
+    {
+      "questionNo": 4,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Which sequence correctly shows the pathway of urine through the human urinary system?<br><img width='40%' src='./assests/images/14.png'>",
+      "options": [
+        { "text": "Kidneys → Urethra → Urinary bladder → Ureters" },
+        { "text": "Kidneys → Urinary bladder → Urethra → Ureters" },
+        { "text": "Kidneys → Ureters → Urinary bladder → Urethra" },
+        { "text": "Urinary bladder → Kidneys → Ureters → Urethra" }
+      ],
+      "answer": 2
+    },
+    {
+      "questionNo": 5,
+      "section": "mcq",
+      "marks": 1,
+      "question": "A ______ is made by physically combining two or more pure substances.<br><i>Hint: pure substance, mixture, compound</i>",
+      "input": [""],
+      "answer": "mixture"
+    },
+    {
+      "questionNo": 6,
+      "section": "mcq",
+      "marks": 1,
+      "question": "A ______ variable is a factor that is kept the same throughout an investigation to ensure a fair test.",
+      "input": [""],
+      "answer": "controlled"
+    },
+    {
+      "questionNo": 7,
+      "section": "mcq",
+      "marks": 1,
+      "question": "After being tested and supported by repeated evidence, a hypothesis may become a scientific ______.",
+      "input": [""],
+      "answer": "theory"
+    },
+    {
+      "questionNo": 8,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Tiny openings on the leaf surface through which gases move are called ______.<br><img width='40%' src='./assests/images/15.png'>",
+      "input": [""],
+      "answer": "stomata"
+    },
+    {
+      "questionNo": 9,
+      "section": "mcq",
+      "marks": 1,
+      "question": "The transfer of pollen from the anther to the stigma is called ______.<br><img width='40%' src='./assests/images/16.png'>",
+      "input": [""],
+      "answer": "pollination"
+    },
+    {
+      "questionNo": 10,
+      "section": "mcq",
+      "marks": 1,
+      "question": "An alloy is a ______ mixture of two or more metals.<br><i>Hint: heterogenous, homogenous</i>",
+      "input": [""],
+      "answer": "homogenous"
+    },
+    {
+      "questionNo": 11,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Fire is considered a living thing because it moves.",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 12,
+      "section": "mcq",
+      "marks": 1,
+      "question": "All living things are made of one or more cells.",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 0
+    },
+    {
+      "questionNo": 13,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Foods with the same mass always provide the same amount of energy.",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 14,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Match each nutrient in Column A with its main function in Column B.<br><b>Column A</b><br>1. Carbohydrate<br>2. Lipid<br>3. Protein<br>4. Fibre<br><b>Column B</b><br>A. Helps prevent constipation<br>B. Growth and repair of body tissues<br>C. Provides energy<br>D. Provides insulation",
+      "options": [
+        { "text": "1-A, 2-B, 3-C, 4-D" },
+        { "text": "1-C, 2-D, 3-B, 4-A" },
+        { "text": "1-C, 2-D, 3-A, 4-B" },
+        { "text": "1-D, 2-C, 3-A, 4-B" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 1,
+      "section": "short",
+      "marks": 3,
+      "question": "Describe the expansion and contraction in matter.<br>Explain how these changes take place, and give at least one suitable example.",
+      "text_area": "",
+      "answer": ["<b>Expansion:</b><br>Expansion is the process in which a matter increases in size when heated without undergoing a change in its state.<br>When matter is heated, its particles gain energy and move more vigorously. This increases the space between particles, causing the substance to expand.<br>Example: Railway tracks expand in summer.<br><br><b>Contraction:</b><br>Contraction is the process where matter shrinks on cooling, while remaining in the same state.<br>When matter cools, its particles lose energy and move more slowly, reducing the space between them and causing the matter to shrink.<br>Example: Mercury in the thermometer falls when cooled."]
+    },
+    {
+      "questionNo": 2,
+      "section": "short",
+      "marks": 3,
+      "question": "Explain the difference between physical change and chemical change?<br>Explain with suitable examples.",
+      "text_area": "",
+      "answer": ["<b>Physical change:</b><br>A physical change is a change in which only the physical properties of matter are altered, but no new substance is formed. This change is usually reversible means the original substance can usually be brought back to its original form.<br>Examples: Melting of ice into water, cutting of trees, bending of an iron rod etc.<br><br><b>Chemical change:</b><br>A chemical change is a change in which one or more new substances are formed with different properties from the original substance. This change is usually irreversible and means the original substance can’t be brought back to its original form.<br>Examples: Burning of wood, and rusting of iron etc."]
+    },
+    {
+      "questionNo": 3,
+      "section": "short",
+      "marks": 3,
+      "question": "Describe the difference between a thermal conductor and a thermal insulator.<br>Include at least two examples of each in your answer.",
+      "text_area": "",
+      "answer": ["<b>Thermal conductor:</b><br>A thermal conductor is a material that allows heat to pass through it easily, so it becomes heated evenly.<br>Metals such as copper and aluminium are good thermal conductors and are often used in cooking utensils.<br><br><b>Thermal Insulator:</b><br>A thermal insulator is a material that slows down the transfer of heat, so it does not become heated evenly.<br>Materials such as wood and plastic are good thermal insulators and are commonly used for handles of pots and pans to reduce heat transfer."]
+    },
+    {
+      "questionNo": 4,
+      "section": "short",
+      "marks": 3,
+      "question": "What is meant by wasted energy?<br>In your answer, use at least one everyday life example and write the energy transformation equations for each example.",
+      "text_area": "",
+      "answer": ["<b>Wasted energy:</b><br>Wasted energy is the energy that is not useful for the main purpose and is released into the surroundings, usually as heat or sound.<br><br><b>Examples:</b><br>1. When a light bulb is switched on, the useful output is light energy. However, the bulb also becomes warm after some time, meaning some energy is transferred as heat energy, which is wasted energy.<br>Electrical energy → Light energy + Thermal energy<br>2. In a television, the useful outputs are light and sound energy. At the same time, the television also releases heat energy, which is unwanted and acts as wasted energy.<br>Electrical energy → Light energy + Sound energy + Thermal energy"]
+    },
+    {
+      "questionNo": 5,
+      "section": "short",
+      "marks": 3,
+      "question": "Explain why the human heart is described as a double pump (double circulatory system).<br><img width='40%' src='./assests/images/17.png'><br>In your answer, describe the role of the right side and the left side of the heart, including where each side pumps blood.",
+      "text_area": "",
+      "answer": ["The human heart is called a double pump because it pumps blood through two separate circuits.<br>The <b>right side</b> receives deoxygenated blood from the body and pumps it to the lungs through the pulmonary artery for oxygenation.<br>The <b>left side</b> receives oxygenated blood from the lungs and pumps it to the rest of the body through the aorta.<br>This double circulation ensures that blood is efficiently oxygenated and delivered to body tissues."]
+    },
+    {
+      "questionNo": 6,
+      "section": "short",
+      "marks": 3,
+      "question": "Describe the pathway of blood through the human circulatory system, including its movement through the heart, lungs, and the rest of the body.<br>In your answer, include the names of the main chambers, blood vessels and valves involved.",
+      "text_area": "",
+      "answer": ["Deoxygenated blood from the body enters the right atrium through the vena cava.<br>It passes through the tricuspid valve into the right ventricle, which pumps it through the pulmonary artery to the lungs.<br>In the lungs, the blood releases carbon dioxide and takes in oxygen.<br>The oxygenated blood returns to the left atrium through the pulmonary veins.<br>It then passes through the bicuspid valve into the left ventricle, which pumps it through the aorta to the rest of the body.<br>The blood delivers oxygen and nutrients to body cells, becomes deoxygenated, and returns to the heart through the veins, completing the cycle."]
+    },
+    {
+      "questionNo": 7,
+      "section": "short",
+      "marks": 3,
+      "question": "Explain why eclipses do not occur every month, even though the Moon has a New Moon phase and a Full Moon phase every month.",
+      "text_area": "",
+      "answer": ["Eclipses do not occur every month because the Moon’s orbit is tilted by about 5° relative to Earth’s orbit around the Sun.<br>Because of this tilt, the Moon usually passes slightly above or below the line between the Sun and Earth.<br>As a result, the Sun, Earth, and Moon are not perfectly aligned, so no eclipse occurs, even though there is a New Moon and a Full Moon every month."]
+    },
+    {
+      "questionNo": 8,
+      "section": "short",
+      "marks": 3,
+      "question": "The diagram below shows animal cells as observed under a microscope.<br><img width='40%' src='./assests/images/18.png'><br><img width='40%' src='./assests/images/1.png'><br>Draw a neat, labeled scientific diagram based on the given observation.",
+      "text_area": "",
+      "answer": [""]
+    },
+    {
+      "questionNo": 1,
+      "marks": 5,
+      "section": "long",
+      "question": "Explain the arrangement of particles in solids, liquids, and gases, and describe their properties.<br><img width='40%' src='./assests/images/20.png'><br>Also, give three examples of each state of matter.",
+      "text_area": "",
+      "answer": ["<b>Solid:</b> In solids, the forces of attraction between particles are very strong. That’s why the particles are tightly packed and fixed in their positions.<br>Particles in solids can only vibrate.<br>Solids generally have a higher density compared to liquid and gases.<br>Example: Rock, Ice cube, and Wood etc.<br><br><b>Liquid:</b> In liquids, the forces of attraction between particles are weaker than solids. That is why the particles are close to each other but not fixed, so they can move past one another and take the shape of a container.<br>Liquids can flow.<br>Example: Water, Milk, and Oil etc.<br><br><b>Gas:</b> In gases, the forces of attraction between particles are very weak. That’s why the particles are far apart and move freely in all directions, so they don’t have a fixed shape or volume.<br>Gases can be easily compressed because there is a lot of empty space between their particles.<br>Example: Smoke, Steam, and Air etc."]
+    },
+    {
+      "questionNo": 2,
+      "marks": 5,
+      "section": "long",
+      "question": "Define a balanced diet.<br><img width='40%' src='./assests/images/21.png'><br>Describe the main components of a balanced diet and explain the role of each component in maintaining a healthy body.",
+      "text_area": "",
+      "answer": ["A <b>balanced diet</b> is a diet that provides the body with the right amounts of all the nutrients needed to stay healthy and function properly.<br>The main components of a balanced diet are:<br>1. <b>Carbohydrates:</b> provide energy for everyday activities and normal body functions.<br>2. <b>Proteins:</b> help with growth, repair and maintenance of body tissues.<br>3. <b>Lipids (fats and oils):</b> provide a long-term energy store, insulation and protection for internal organs.<br>4. <b>Vitamins:</b> help the body carry out important chemical reactions and processes.<br>5. <b>Minerals:</b> are needed for important body processes. For example, calcium helps maintain strong bones and teeth, while iron is needed to make haemoglobin.<br>6. <b>Fibre:</b> helps keep the digestive system healthy and helps food and waste move through the digestive tract.<br>7. <b>Water:</b> is essential for normal body functions and is an important part of a healthy diet."]
+    },
+    {
+      "questionNo": 3,
+      "marks": 5,
+      "section": "long",
+      "question": "Earth’s axis is tilted at 23.5°.<br>Explain how this tilt causes the changing seasons.<br><img width='40%' src='./assests/images/22.png'>",
+      "text_area": "",
+      "answer": ["Earth’s axis is tilted at 23.5°. As the Earth revolves around the Sun, its tilted axis always points in the same direction. Because of this, the amount of sunlight received by each hemisphere changes throughout the year, creating the four seasons.<br>During the June Solstice (around 21 June), the Northern Hemisphere is tilted most directly towards the Sun and experiences summer, while the Southern Hemisphere, including New Zealand, experiences winter.<br>During the December Solstice (around 21 December), the situation is reversed. The Southern Hemisphere is tilted most directly towards the Sun and experiences summer, while the Northern Hemisphere experiences winter.<br>During the March Equinox (around 21 March), neither hemisphere is tilted towards or away from the Sun. Both hemispheres receive almost equal amounts of sunlight, so day and night are nearly equal in length. The Northern Hemisphere experiences spring, while the Southern Hemisphere experiences autumn.<br>During the September Equinox (around 23 September), day and night are again nearly equal in length. The Northern Hemisphere experiences autumn, while the Southern Hemisphere experiences spring.<br>Therefore, Earth’s 23.5° axial tilt and its revolution around the Sun cause the changing seasons, including the solstices and the equinoxes."]
+    },
+    {
+      "questionNo": 4,
+      "marks": 5,
+      "section": "long",
+      "question": "Write the name of the planet for each of the following.<br>1. Closest to the Sun: ______<br>2. Farthest from the Sun: ______<br>3. Largest planet: ______<br>4. Smallest planet: ______<br>5. Most massive planet: ______<br>6. Hottest planet: ______<br>7. Coldest planet: ______<br>8. Supports life: ______<br>9. Red Planet: ______<br>10. Dark blue planet: ______<br>11. Has the largest volcano: ______<br>12. Has the Great Red Spot: ______<br>13. Known for its beautiful rings: ______<br>14. Has the strongest winds in the Solar System: ______",
+      "input": ["", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+      "answer": ["Mercury", "Neptune", "Jupiter", "Mercury", "Jupiter", "Venus", "Uranus", "Earth", "Mars", "Neptune", "Mars", "Jupiter", "Saturn", "Neptune"]
+    }
+  ]
+}
+  ]
+}
